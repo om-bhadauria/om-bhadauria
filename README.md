@@ -56,19 +56,17 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=om-bhadauria&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats.shion.dev/api?username=om-bhadauria&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=true" />
 
-<img src="https://streak-stats.demolab.com?user=om-bhadauria&theme=tokyonight&hide_border=true" height="165"/>
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=om-bhadauria&theme=github_dark_dimmed&hide_border=false" />
+
+<br/>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=om-bhadauria&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
 
 </p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om-bhadauria&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 ## 🏆 Achievements
 
@@ -86,12 +84,18 @@
 
 ---
 
-## 🔝 Top Contributions
+## 🔝 Top Contribution
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=om-bhadauria&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&v=2" />
+<a href="https://github.com/om-bhadauria/Project.1.-CareConnect-APP">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=om-bhadauria&repo=Project.1.-CareConnect-APP&theme=tokyonight&hide_border=true&v=2"/>
+</a>
 </p>
 
+<p align="center">
+🩺 <b>CareConnect</b> — Smart healthcare platform for appointment scheduling and user management.
+</p>
+  
 ### 📊 Contribution Meaning
 - 🔥 Daily/weekly commit consistency  
 - ⚡ Active development across repositories  
