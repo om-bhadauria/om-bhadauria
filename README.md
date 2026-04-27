@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Om Bhadauria</h1>
-<h3 align="center">Engineering Student | Full Stack Developer | Problem Solver</h3>
+
+<h3 align="center">
+Full Stack Developer focused on building real-world, scalable applications 🚀
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=om-bhadauria&label=Profile%20views&color=0e75b6&style=flat" />
+I don’t just learn — I build. From healthcare platforms like CareConnect to full-stack systems, I focus on solving real problems and improving through consistent development.
 </p>
-
----
 
 ## 🚀 About Me
 - 🎓 Engineering Student focused on real-world projects  
